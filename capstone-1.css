@@ -13,7 +13,14 @@
 	margin: 0;
 }
 
-img {
-	width: 15rem;
-	height: 15rem;
+#AboutMe {
+	height: 100vh;
+}
+
+#getProject {
+	height: 100vh;
+}
+
+#tools {
+	height: 100vh;
 }
