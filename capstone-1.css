@@ -15,6 +15,10 @@ body, html {
 	font-family: 'Crimson Text';
 }
 
+#must-underline {
+	text-decoration: underline;
+}
+
 .hero {
 	background-attachment: fixed;
 	background-position: center;
